@@ -9,6 +9,11 @@
     </style>
 
     <style name="TextLabel" parent="AppTheme">
+        <item name="android:textColorHint">@color/floating_label</item>
+        <item name="android:textSize">@dimen/normal_font</item>
+    </style>
+
+    <style name="TextLabel.Active" parent="AppTheme">
         <item name="android:textColor">@color/actionable_item</item>
         <item name="android:textColorHint">@color/actionable_item</item>
         <item name="android:textSize">@dimen/normal_font</item>
@@ -17,6 +22,7 @@
     <style name="TextLabel.Error" parent="AppTheme">
         <item name="android:textColor">@color/error_red</item>
         <item name="android:textColorHint">@color/error_red</item>
+        <item name="android:textColorPrimary">@color/error_red</item>
     </style>
 
 </resources>
