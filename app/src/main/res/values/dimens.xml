@@ -3,4 +3,5 @@
     <dimen name="horizontal_margin">16dp</dimen>
     <dimen name="vertical_margin">16dp</dimen>
     <dimen name="small_vertical_spacing">8dp</dimen>
+    <dimen name="normal_font">16sp</dimen>
 </resources>

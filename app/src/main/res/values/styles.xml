@@ -11,6 +11,7 @@
     <style name="TextLabel" parent="AppTheme">
         <item name="android:textColor">@color/actionable_item</item>
         <item name="android:textColorHint">@color/actionable_item</item>
+        <item name="android:textSize">@dimen/normal_font</item>
     </style>
 
     <style name="TextLabel.Error" parent="AppTheme">
