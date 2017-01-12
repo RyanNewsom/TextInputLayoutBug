@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="TextLabel" parent="AppTheme">
+        <item name="android:textColor">@color/error_red</item>
+        <item name="android:textColorHint">@color/error_red</item>
+    </style>
+
 </resources>

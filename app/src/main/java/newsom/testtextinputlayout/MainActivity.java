@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         mButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                mTextInputLayout.setHintTextAppearance(R.color.error_red);
+                mTextInputLayout.setHintTextAppearance(R.style.TextLabel);
             }
         });
     }
