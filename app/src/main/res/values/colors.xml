@@ -5,5 +5,7 @@
     <color name="colorAccent">#FF4081</color>
     <color name="error_red">#DD0000</color>
     <color name="blue">#003cff</color>
+    <color name="text_hint">#8b8b8b</color>
+    <color name="actionable_item">#5e00ff</color>
 
 </resources>
